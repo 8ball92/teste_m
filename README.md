@@ -1,6 +1,7 @@
 # Yoda Web app 
 
 Em sua VM, criei um path com o seguinte comando para podermos atrelar ao k3d nos próximos passos.
+Eu usei k3d mas nada impede que você use qualquer emulador de cluster local de sua preferencia. 
 
    
 
